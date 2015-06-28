@@ -1,0 +1,25 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "egs.js",
+  "dependencies": {
+    "ampersand-model": "^5.0.3",
+    "ampersand-state": "^4.5.6",
+    "edit-google-spreadsheet": "^0.2.19",
+    "google-spreadsheet": "^0.3.1",
+    "googleclientlogin": "^0.2.8",
+    "tabletop": "^1.4.2",
+    "underscore": "^1.8.3",
+    "urlify": "^0.3.6"
+  },
+  "devDependencies": {
+    "browserify": "^10.2.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
