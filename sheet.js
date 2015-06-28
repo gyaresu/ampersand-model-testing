@@ -1,5 +1,5 @@
-// Spreadsheets Data API spreadsheets  'wise'
 import Model from 'ampersand-model'
+import config from './config.json'
 
 var Google = Model.extend({
   url () {
