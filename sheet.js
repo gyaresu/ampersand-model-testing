@@ -5,6 +5,7 @@ var Google = Model.extend({
   url () {
    'https://accounts.google.com/o/oauth2/auth' + 
   },
+  ajax
 
 })
 
